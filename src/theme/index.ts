@@ -1,0 +1,86 @@
+import { MD3DarkTheme, MD3LightTheme, type MD3Theme } from 'react-native-paper';
+
+/** Palette carried over from Project I (olive/forest green + teal accent). */
+export const light: MD3Theme = {
+  ...MD3LightTheme,
+  roundness: 4,
+  colors: {
+    ...MD3LightTheme.colors,
+    primary: '#52663C',
+    onPrimary: '#FFFFFF',
+    primaryContainer: '#CFEBC0',
+    onPrimaryContainer: '#121F03',
+    secondary: '#5B6246',
+    onSecondary: '#FFFFFF',
+    secondaryContainer: '#DFE6C3',
+    onSecondaryContainer: '#181E08',
+    tertiary: '#3B665E',
+    onTertiary: '#FFFFFF',
+    tertiaryContainer: '#BCECE2',
+    onTertiaryContainer: '#00201A',
+    error: '#BA1A1A',
+    errorContainer: '#FFDAD6',
+    onErrorContainer: '#410002',
+    background: '#F9FAEF',
+    onBackground: '#1A1C16',
+    surface: '#F9FAEF',
+    onSurface: '#1A1C16',
+    surfaceVariant: '#E1E4D5',
+    onSurfaceVariant: '#44483D',
+    outline: '#75796C',
+    elevation: {
+      level0: 'transparent',
+      level1: '#F2F5E6',
+      level2: '#ECF0DE',
+      level3: '#E6EBD6',
+      level4: '#E4E9D3',
+      level5: '#DFE5CE',
+    },
+  },
+};
+
+export const dark: MD3Theme = {
+  ...MD3DarkTheme,
+  roundness: 4,
+  colors: {
+    ...MD3DarkTheme.colors,
+    primary: '#B3CF99',
+    onPrimary: '#253612',
+    primaryContainer: '#3B4D27',
+    onPrimaryContainer: '#CFEBC0',
+    secondary: '#C4CCA4',
+    onSecondary: '#2D331B',
+    secondaryContainer: '#444B30',
+    onSecondaryContainer: '#DFE6C3',
+    tertiary: '#A0D0C8',
+    onTertiary: '#003731',
+    tertiaryContainer: '#264D47',
+    onTertiaryContainer: '#BCECE2',
+    error: '#FFB4AB',
+    errorContainer: '#93000A',
+    onErrorContainer: '#FFDAD6',
+    background: '#1A1C16',
+    onBackground: '#E2E3DB',
+    surface: '#1A1C16',
+    onSurface: '#E2E3DB',
+    surfaceVariant: '#44483D',
+    onSurfaceVariant: '#C5C8BA',
+    outline: '#8F9284',
+    elevation: {
+      level0: 'transparent',
+      level1: '#22251C',
+      level2: '#272B20',
+      level3: '#2C3024',
+      level4: '#2E3226',
+      level5: '#313629',
+    },
+  },
+};
+
+/** Status colours used for expiry chips. Values chosen to keep contrast in both themes. */
+export const status = {
+  expired: { light: { bg: '#FFDAD6', fg: '#410002' }, dark: { bg: '#93000A', fg: '#FFDAD6' } },
+  soon: { light: { bg: '#FFE9A8', fg: '#3D2E00' }, dark: { bg: '#5C4600', fg: '#FFE9A8' } },
+  low: { light: { bg: '#FFDCC2', fg: '#3A1B00' }, dark: { bg: '#6B3300', fg: '#FFDCC2' } },
+  ok: { light: { bg: '#CFEBC0', fg: '#121F03' }, dark: { bg: '#3B4D27', fg: '#CFEBC0' } },
+};

@@ -1,0 +1,817 @@
+[
+ {
+  "id": "bt-01",
+  "title": "Ema Datshi",
+  "category": "Vegetarian",
+  "area": "Bhutanese",
+  "emoji": "🌶️",
+  "instructions": [
+   "Wash and slit the chilies lengthwise. Remove seeds if you prefer less heat.",
+   "In a pan, combine chilies, sliced onions, chopped tomatoes, garlic, vegetable oil, salt, and water.",
+   "Cover and bring to a boil over medium heat until the chilies are soft (about 8-10 minutes).",
+   "Add the sliced cheese on top and cover the pan without stirring for 2-3 minutes until the cheese melts.",
+   "Stir gently to incorporate the cheese into the broth. Serve hot with Bhutanese red rice."
+  ],
+  "ingredients": [
+   {
+    "name": "Chili Peppers",
+    "measure": "250g"
+   },
+   {
+    "name": "Onion",
+    "measure": "1 medium"
+   },
+   {
+    "name": "Tomato",
+    "measure": "2 medium"
+   },
+   {
+    "name": "Garlic",
+    "measure": "5 cloves"
+   },
+   {
+    "name": "Cheese",
+    "measure": "200g"
+   },
+   {
+    "name": "Vegetable Oil",
+    "measure": "2 tsp"
+   },
+   {
+    "name": "Water",
+    "measure": "1.5 cups"
+   },
+   {
+    "name": "Salt",
+    "measure": "to taste"
+   }
+  ],
+  "servings": 3,
+  "mealTypes": [
+   "Lunch",
+   "Dinner"
+  ],
+  "source": "local"
+ },
+ {
+  "id": "bt-02",
+  "title": "Kewa Datshi",
+  "category": "Vegetarian",
+  "area": "Bhutanese",
+  "emoji": "🥔",
+  "instructions": [
+   "Peel and thinly slice the potatoes.",
+   "Place potatoes, sliced onions, chilies, garlic, butter, and salt in a pot with water.",
+   "Boil until the potatoes are tender and the water has reduced slightly.",
+   "Add the cheese and stir gently until it melts into a creamy sauce.",
+   "Garnish with spring onions and serve with red rice."
+  ],
+  "ingredients": [
+   {
+    "name": "Potatoes",
+    "measure": "4-6 medium"
+   },
+   {
+    "name": "Cheese",
+    "measure": "150g"
+   },
+   {
+    "name": "Chili Peppers",
+    "measure": "3-4 pieces"
+   },
+   {
+    "name": "Onion",
+    "measure": "1 small"
+   },
+   {
+    "name": "Butter",
+    "measure": "2 tbsp"
+   },
+   {
+    "name": "Water",
+    "measure": "1 cup"
+   },
+   {
+    "name": "Salt",
+    "measure": "to taste"
+   },
+   {
+    "name": "Garlic",
+    "measure": "2 cloves"
+   }
+  ],
+  "servings": 4,
+  "mealTypes": [
+   "Lunch",
+   "Dinner"
+  ],
+  "source": "local"
+ },
+ {
+  "id": "bt-03",
+  "title": "Shamu Datshi",
+  "category": "Vegetarian",
+  "area": "Bhutanese",
+  "emoji": "🍄",
+  "instructions": [
+   "Clean and slice the mushrooms.",
+   "In a pan, add mushrooms, butter, water, and sliced chilies.",
+   "Simmer until the mushrooms are tender and the water reduces.",
+   "Stir in the cheese and wait until it is fully melted and creamy.",
+   "Serve as a side dish or main over rice."
+  ],
+  "ingredients": [
+   {
+    "name": "Mushrooms",
+    "measure": "250g"
+   },
+   {
+    "name": "Cheese",
+    "measure": "100g"
+   },
+   {
+    "name": "Green Chilies",
+    "measure": "2-3 pieces"
+   },
+   {
+    "name": "Butter",
+    "measure": "1 tbsp"
+   },
+   {
+    "name": "Water",
+    "measure": "1/2 cup"
+   },
+   {
+    "name": "Salt",
+    "measure": "to taste"
+   }
+  ],
+  "servings": 3,
+  "mealTypes": [
+   "Lunch",
+   "Dinner"
+  ],
+  "source": "local"
+ },
+ {
+  "id": "bt-04",
+  "title": "Phaksha Paa",
+  "category": "Pork",
+  "area": "Bhutanese",
+  "emoji": "🥓",
+  "instructions": [
+   "Cut the pork into strips or cubes and sear in a pot until browned and the fat renders.",
+   "Add ginger, garlic, and onions, sautéing until fragrant.",
+   "Add dried red chilies and sliced radish.",
+   "Pour in stock or water and simmer for 30-40 minutes until the pork is tender.",
+   "Stir in bok choy or spinach at the end and cook for another 5 minutes."
+  ],
+  "ingredients": [
+   {
+    "name": "Pork Belly",
+    "measure": "500g"
+   },
+   {
+    "name": "Daikon Radish",
+    "measure": "1 cup"
+   },
+   {
+    "name": "Dried Red Chilies",
+    "measure": "8-10 pieces"
+   },
+   {
+    "name": "Ginger",
+    "measure": "1 tbsp minced"
+   },
+   {
+    "name": "Garlic",
+    "measure": "1 tbsp minced"
+   },
+   {
+    "name": "Bok Choy",
+    "measure": "1 cup"
+   },
+   {
+    "name": "Chicken Stock",
+    "measure": "2 cups"
+   },
+   {
+    "name": "Onion",
+    "measure": "1 medium"
+   }
+  ],
+  "servings": 4,
+  "mealTypes": [
+   "Dinner"
+  ],
+  "source": "local"
+ },
+ {
+  "id": "bt-05",
+  "title": "Jasha Maru",
+  "category": "Chicken",
+  "area": "Bhutanese",
+  "emoji": "🍗",
+  "instructions": [
+   "Heat oil and sauté garlic, ginger, and onions until soft.",
+   "Add the chicken (minced or diced) and brown evenly.",
+   "Stir in tomatoes, leeks, and chilies.",
+   "Add chicken stock and simmer for 15-20 minutes until the chicken is cooked through.",
+   "Garnish with plenty of fresh coriander."
+  ],
+  "ingredients": [
+   {
+    "name": "Chicken",
+    "measure": "500g"
+   },
+   {
+    "name": "Ginger",
+    "measure": "2 tbsp grated"
+   },
+   {
+    "name": "Garlic",
+    "measure": "1 tbsp minced"
+   },
+   {
+    "name": "Onion",
+    "measure": "1 large"
+   },
+   {
+    "name": "Green Chilies",
+    "measure": "4-5 pieces"
+   },
+   {
+    "name": "Tomatoes",
+    "measure": "2 medium"
+   },
+   {
+    "name": "Leeks",
+    "measure": "1 piece"
+   },
+   {
+    "name": "Coriander",
+    "measure": "1/2 cup"
+   },
+   {
+    "name": "Vegetable Oil",
+    "measure": "2 tbsp"
+   }
+  ],
+  "servings": 4,
+  "mealTypes": [
+   "Lunch",
+   "Dinner"
+  ],
+  "source": "local"
+ },
+ {
+  "id": "bt-06",
+  "title": "Zow Shungo",
+  "category": "Vegetarian",
+  "area": "Bhutanese",
+  "emoji": "🍚",
+  "instructions": [
+   "Sauté onions, garlic, and diced vegetables (potatoes, carrots) in oil until tender.",
+   "Add cabbage and cook until wilted.",
+   "Stir in leftover cooked rice and spices (turmeric, cumin, pepper).",
+   "Toss everything together until the rice is heated through and slightly crispy.",
+   "Optionally, melt some cheese into the mixture before serving."
+  ],
+  "ingredients": [
+   {
+    "name": "Cooked Rice",
+    "measure": "2 cups"
+   },
+   {
+    "name": "Mixed Vegetables",
+    "measure": "1 cup"
+   },
+   {
+    "name": "Onion",
+    "measure": "1 medium"
+   },
+   {
+    "name": "Turmeric",
+    "measure": "1 tsp"
+   },
+   {
+    "name": "Vegetable Oil",
+    "measure": "1 tbsp"
+   },
+   {
+    "name": "Garlic",
+    "measure": "2 cloves"
+   },
+   {
+    "name": "Cabbage",
+    "measure": "1 cup"
+   },
+   {
+    "name": "Potatoes",
+    "measure": "1 medium"
+   },
+   {
+    "name": "Carrot",
+    "measure": "1 medium"
+   }
+  ],
+  "servings": 2,
+  "mealTypes": [
+   "Breakfast",
+   "Lunch"
+  ],
+  "source": "local"
+ },
+ {
+  "id": "bt-07",
+  "title": "Hoentay",
+  "category": "Vegetarian",
+  "area": "Bhutanese",
+  "emoji": "🥟",
+  "instructions": [
+   "Mix buckwheat flour with water to form a soft dough. Let it rest.",
+   "For the filling, sauté turnip leaves in butter until dry. Mix with cheese, ginger, garlic, and chili powder.",
+   "Roll out the dough into thin circles.",
+   "Place a spoonful of filling in the center, fold, and pleat to seal.",
+   "Steam the dumplings for 15-20 minutes until the wrapper is tender."
+  ],
+  "ingredients": [
+   {
+    "name": "Buckwheat Flour",
+    "measure": "2 cups"
+   },
+   {
+    "name": "Turnip Leaves",
+    "measure": "2 cups"
+   },
+   {
+    "name": "Cheese",
+    "measure": "1 cup"
+   },
+   {
+    "name": "Butter",
+    "measure": "2 tbsp"
+   },
+   {
+    "name": "Ginger",
+    "measure": "1 tsp"
+   },
+   {
+    "name": "Chili Powder",
+    "measure": "1 tsp"
+   },
+   {
+    "name": "Garlic",
+    "measure": "2 cloves"
+   }
+  ],
+  "servings": 4,
+  "mealTypes": [
+   "Snacks",
+   "Lunch"
+  ],
+  "source": "local"
+ },
+ {
+  "id": "bt-08",
+  "title": "Suja",
+  "category": "Beverage",
+  "area": "Bhutanese",
+  "emoji": "🍵",
+  "instructions": [
+   "Boil water and add tea leaves. Simmer until the tea is dark brown.",
+   "Strain the tea to remove leaves.",
+   "Add butter and salt to the hot tea.",
+   "Churn the mixture using a traditional wooden churner (jasum) or a modern blender for 30 seconds until frothy.",
+   "Serve hot in small bowls."
+  ],
+  "ingredients": [
+   {
+    "name": "Tea Leaves",
+    "measure": "2 tbsp"
+   },
+   {
+    "name": "Water",
+    "measure": "4 cups"
+   },
+   {
+    "name": "Butter",
+    "measure": "2 tbsp"
+   },
+   {
+    "name": "Salt",
+    "measure": "1/2 tsp"
+   }
+  ],
+  "servings": 4,
+  "mealTypes": [
+   "Breakfast",
+   "Snacks"
+  ],
+  "source": "local"
+ },
+ {
+  "id": "bt-09",
+  "title": "Khuley",
+  "category": "Breakfast",
+  "area": "Bhutanese",
+  "emoji": "🥞",
+  "instructions": [
+   "Whisk the buckwheat flour, salt and water into a smooth, thin batter.",
+   "Heat a non-stick pan over medium heat and grease it lightly with butter.",
+   "Pour a ladle of batter and tilt the pan to spread it thin.",
+   "Cook for 2 minutes per side until the edges lift and brown spots appear.",
+   "Serve warm with Ezay or a little butter and cheese."
+  ],
+  "ingredients": [
+   {
+    "name": "Buckwheat Flour",
+    "measure": "2 cups"
+   },
+   {
+    "name": "Water",
+    "measure": "1 1/2 cups"
+   },
+   {
+    "name": "Salt",
+    "measure": "1/2 tsp"
+   },
+   {
+    "name": "Butter",
+    "measure": "1 tbsp"
+   }
+  ],
+  "servings": 4,
+  "mealTypes": [
+   "Breakfast"
+  ],
+  "source": "local"
+ },
+ {
+  "id": "bt-10",
+  "title": "Tingmo",
+  "category": "Breakfast",
+  "area": "Bhutanese",
+  "emoji": "🍞",
+  "instructions": [
+   "Dissolve the yeast and sugar in warm water and leave for 10 minutes until foamy.",
+   "Mix in the flour, salt and oil and knead into a smooth dough for 8 minutes.",
+   "Cover and let the dough rise for 1 hour until doubled.",
+   "Divide into balls, roll out, brush with oil and roll up into spirals.",
+   "Steam for 15-20 minutes until fluffy and cooked through. Serve with Ema Datshi or Phaksha Paa."
+  ],
+  "ingredients": [
+   {
+    "name": "Flour",
+    "measure": "3 cups"
+   },
+   {
+    "name": "Yeast",
+    "measure": "2 tsp"
+   },
+   {
+    "name": "Sugar",
+    "measure": "1 tbsp"
+   },
+   {
+    "name": "Water",
+    "measure": "1 cup"
+   },
+   {
+    "name": "Salt",
+    "measure": "1/2 tsp"
+   },
+   {
+    "name": "Vegetable Oil",
+    "measure": "1 tbsp"
+   }
+  ],
+  "servings": 4,
+  "mealTypes": [
+   "Breakfast",
+   "Snacks"
+  ],
+  "source": "local"
+ },
+ {
+  "id": "bt-11",
+  "title": "Ezay",
+  "category": "Vegetarian",
+  "area": "Bhutanese",
+  "emoji": "🍅",
+  "instructions": [
+   "Finely chop the tomatoes, chilies, onion and coriander.",
+   "Crumble or grate the cheese.",
+   "Mix everything together with salt, squeezing lightly so the juices release.",
+   "Rest for 10 minutes and serve as a chili relish with rice, Khuley or Tingmo."
+  ],
+  "ingredients": [
+   {
+    "name": "Tomato",
+    "measure": "2 medium"
+   },
+   {
+    "name": "Chili Peppers",
+    "measure": "4-5 pieces"
+   },
+   {
+    "name": "Onion",
+    "measure": "1 small"
+   },
+   {
+    "name": "Cheese",
+    "measure": "50g"
+   },
+   {
+    "name": "Coriander",
+    "measure": "1/4 cup"
+   },
+   {
+    "name": "Salt",
+    "measure": "to taste"
+   }
+  ],
+  "servings": 4,
+  "mealTypes": [
+   "Snacks"
+  ],
+  "source": "local"
+ },
+ {
+  "id": "bt-12",
+  "title": "Beef Momo",
+  "category": "Beef",
+  "area": "Bhutanese",
+  "emoji": "🥟",
+  "instructions": [
+   "Knead the flour, water and a pinch of salt into a firm dough and rest it for 30 minutes.",
+   "Mix the beef with finely chopped cabbage, onion, garlic, ginger, oil and salt for the filling.",
+   "Roll the dough into small circles, place a spoonful of filling in each and pleat to seal.",
+   "Steam in an oiled steamer for 12-15 minutes until the wrappers turn glossy.",
+   "Serve hot with Ezay on the side."
+  ],
+  "ingredients": [
+   {
+    "name": "Flour",
+    "measure": "2 cups"
+   },
+   {
+    "name": "Water",
+    "measure": "3/4 cup"
+   },
+   {
+    "name": "Ground Beef",
+    "measure": "300g"
+   },
+   {
+    "name": "Cabbage",
+    "measure": "1 cup"
+   },
+   {
+    "name": "Onion",
+    "measure": "1 medium"
+   },
+   {
+    "name": "Garlic",
+    "measure": "3 cloves"
+   },
+   {
+    "name": "Ginger",
+    "measure": "1 tsp"
+   },
+   {
+    "name": "Vegetable Oil",
+    "measure": "1 tbsp"
+   },
+   {
+    "name": "Salt",
+    "measure": "to taste"
+   }
+  ],
+  "servings": 4,
+  "mealTypes": [
+   "Snacks",
+   "Dinner"
+  ],
+  "source": "local"
+ },
+ {
+  "id": "bt-13",
+  "title": "Puta",
+  "category": "Vegetarian",
+  "area": "Bhutanese",
+  "emoji": "🍜",
+  "instructions": [
+   "Knead the buckwheat flour with hot water into a stiff dough.",
+   "Press the dough through a noodle press into boiling water.",
+   "Cook for 2-3 minutes until the noodles float, then drain.",
+   "Toss with butter, grated cheese, sliced spring onion, chili powder and salt.",
+   "Serve immediately while hot."
+  ],
+  "ingredients": [
+   {
+    "name": "Buckwheat Flour",
+    "measure": "2 cups"
+   },
+   {
+    "name": "Water",
+    "measure": "1 cup"
+   },
+   {
+    "name": "Butter",
+    "measure": "2 tbsp"
+   },
+   {
+    "name": "Cheese",
+    "measure": "100g"
+   },
+   {
+    "name": "Spring Onion",
+    "measure": "2 pieces"
+   },
+   {
+    "name": "Chili Powder",
+    "measure": "1 tsp"
+   },
+   {
+    "name": "Salt",
+    "measure": "to taste"
+   }
+  ],
+  "servings": 2,
+  "mealTypes": [
+   "Lunch"
+  ],
+  "source": "local"
+ },
+ {
+  "id": "bt-14",
+  "title": "Nakey Datshi",
+  "category": "Vegetarian",
+  "area": "Bhutanese",
+  "emoji": "🌿",
+  "instructions": [
+   "Wash the ferns well and cut them into short lengths.",
+   "Put the ferns, sliced onion, chilies, garlic, butter, salt and water in a pan.",
+   "Cook on medium heat for 8 minutes until the ferns are tender.",
+   "Add the cheese, cover and let it melt, then stir gently.",
+   "Serve with red rice."
+  ],
+  "ingredients": [
+   {
+    "name": "Fiddlehead Fern",
+    "measure": "250g"
+   },
+   {
+    "name": "Cheese",
+    "measure": "150g"
+   },
+   {
+    "name": "Chili Peppers",
+    "measure": "3-4 pieces"
+   },
+   {
+    "name": "Onion",
+    "measure": "1 small"
+   },
+   {
+    "name": "Garlic",
+    "measure": "3 cloves"
+   },
+   {
+    "name": "Butter",
+    "measure": "1 tbsp"
+   },
+   {
+    "name": "Water",
+    "measure": "1/2 cup"
+   },
+   {
+    "name": "Salt",
+    "measure": "to taste"
+   }
+  ],
+  "servings": 3,
+  "mealTypes": [
+   "Lunch",
+   "Dinner"
+  ],
+  "source": "local"
+ },
+ {
+  "id": "bt-15",
+  "title": "Bhutanese Dal",
+  "category": "Vegetarian",
+  "area": "Bhutanese",
+  "emoji": "🍲",
+  "instructions": [
+   "Rinse the lentils and simmer them in water with turmeric for 20 minutes until soft.",
+   "Heat the oil and fry onion, garlic, ginger and chilies until golden.",
+   "Add the chopped tomato and cook until it breaks down.",
+   "Stir the fried mixture into the lentils, add salt and simmer for 5 more minutes.",
+   "Garnish with coriander and serve with red rice."
+  ],
+  "ingredients": [
+   {
+    "name": "Red Lentils",
+    "measure": "1 cup"
+   },
+   {
+    "name": "Water",
+    "measure": "4 cups"
+   },
+   {
+    "name": "Onion",
+    "measure": "1 medium"
+   },
+   {
+    "name": "Tomato",
+    "measure": "1 medium"
+   },
+   {
+    "name": "Garlic",
+    "measure": "4 cloves"
+   },
+   {
+    "name": "Ginger",
+    "measure": "1 tsp"
+   },
+   {
+    "name": "Turmeric",
+    "measure": "1/2 tsp"
+   },
+   {
+    "name": "Chili Peppers",
+    "measure": "2 pieces"
+   },
+   {
+    "name": "Vegetable Oil",
+    "measure": "1 tbsp"
+   },
+   {
+    "name": "Coriander",
+    "measure": "2 tbsp"
+   },
+   {
+    "name": "Salt",
+    "measure": "to taste"
+   }
+  ],
+  "servings": 4,
+  "mealTypes": [
+   "Lunch",
+   "Dinner"
+  ],
+  "source": "local"
+ },
+ {
+  "id": "bt-16",
+  "title": "Egg Datshi",
+  "category": "Vegetarian",
+  "area": "Bhutanese",
+  "emoji": "🍳",
+  "instructions": [
+   "Heat the oil and soften the sliced onion and chilies for 3 minutes.",
+   "Add the chopped tomato and cook until soft.",
+   "Pour in the lightly beaten eggs and stir gently until just set.",
+   "Fold in the cheese, cover and let it melt for 2 minutes.",
+   "Serve with rice or Tingmo."
+  ],
+  "ingredients": [
+   {
+    "name": "Eggs",
+    "measure": "4 large"
+   },
+   {
+    "name": "Cheese",
+    "measure": "100g"
+   },
+   {
+    "name": "Chili Peppers",
+    "measure": "3-4 pieces"
+   },
+   {
+    "name": "Onion",
+    "measure": "1 small"
+   },
+   {
+    "name": "Tomato",
+    "measure": "1 medium"
+   },
+   {
+    "name": "Vegetable Oil",
+    "measure": "1 tbsp"
+   },
+   {
+    "name": "Salt",
+    "measure": "to taste"
+   }
+  ],
+  "servings": 2,
+  "mealTypes": [
+   "Breakfast",
+   "Lunch"
+  ],
+  "source": "local"
+ }
+]
